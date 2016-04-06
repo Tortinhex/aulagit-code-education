@@ -1,14 +1,14 @@
 # Curso GIT Code Education :tada:
 ### Explicação dos passos executados neste projeto
 
-Inicialmente, criei uma pasta utilizando o comando 'mkdir aulagit' e fiz as seguintes configurações:
+Inicialmente, criei uma pasta utilizando o comando `mkdir aulagit` e fiz as seguintes configurações:
 
 ```
 git config --global user.name "Meu Nome"
 git config --global user.email "meuemail@dominio.com" 
 ```
 
-Então, incluí o arquivo "arquivo1" com o comando 'touch arquivo1'. Após criá-lo, executei o comando:
+Então, incluí o arquivo "arquivo1" com o comando `touch arquivo1`. Após criá-lo, executei o comando:
 
 ```
 git add .
