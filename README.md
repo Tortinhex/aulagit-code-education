@@ -1,6 +1,8 @@
 # Curso GIT Code Education :tada:
 ### Explicação dos passos executados neste projeto
 
+> Release 0.1.0 :tada: 
+
 Inicialmente, criei uma pasta utilizando o comando `mkdir aulagit` e fiz as seguintes configurações:
 
 ```
